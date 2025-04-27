@@ -1,5 +1,3 @@
-// routineController.js
-
 import Routine from '../models/Routine.js'; // adjust path as needed
 
 // Create Routine
